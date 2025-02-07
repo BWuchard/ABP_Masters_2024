@@ -1,0 +1,16 @@
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_1_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_1_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_Coverage_2_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_Coverage_3_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_Coverage_4_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_GNI_2_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_GNI_3_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_GNI_4_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_1_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_1_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_Coverage_2_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_Coverage_3_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_Coverage_4_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_GNI_2_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_GNI_3_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\UVP_market_assignments_GNI_4_MC_proc_plans.csv

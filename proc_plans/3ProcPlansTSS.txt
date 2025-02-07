@@ -1,0 +1,4 @@
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_GNI_3_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_Coverage_3_MC_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_GNI_3_BH_proc_plans.csv
+C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\proc_plans\TSS_market_assignments_Coverage_3_BH_proc_plans.csv

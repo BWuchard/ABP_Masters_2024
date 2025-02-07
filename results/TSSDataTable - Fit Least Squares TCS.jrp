@@ -1,0 +1,81 @@
+﻿Open(
+	"C:\Users\Bailey\Downloads\Research\ResearchCoop\ABP-mkt-code\Solutions\UVP\results\TSSDataTable.jmp"
+);
+Fit Model(
+	Y( :"1/TCS^2"n ),
+	Effects(
+		:Cluster, :Solve, :Cluster * :Solve, :n_markets, :Cluster * :n_markets,
+		:Solve * :n_markets, :Cluster * :Solve * :n_markets
+	),
+	Personality( "Standard Least Squares" ),
+	History(
+		Effects(
+			:Method, :Cluster, :Solve, :Cluster * :Solve, :n_markets,
+			:Cluster * :n_markets, :Solve * :n_markets,
+			:Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Cluster * :Solve,
+			:n_markets, :Cluster * :n_markets, :Solve * :n_markets,
+			:Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Cluster * :Solve,
+			:n_markets, :Method * :n_markets, :Cluster * :n_markets,
+			:Solve * :n_markets, :Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Method * :Solve,
+			:Cluster * :Solve, :n_markets, :Method * :n_markets,
+			:Cluster * :n_markets, :Solve * :n_markets,
+			:Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Method * :Solve,
+			:Cluster * :Solve, :Method * :Cluster * :Solve, :n_markets,
+			:Method * :n_markets, :Cluster * :n_markets, :Solve * :n_markets,
+			:Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Method * :Solve,
+			:Cluster * :Solve, :Method * :Cluster * :Solve, :n_markets,
+			:Method * :n_markets, :Cluster * :n_markets,
+			:Method * :Cluster * :n_markets, :Solve * :n_markets,
+			:Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Method * :Solve,
+			:Cluster * :Solve, :Method * :Cluster * :Solve, :n_markets,
+			:Method * :n_markets, :Cluster * :n_markets,
+			:Method * :Cluster * :n_markets, :Solve * :n_markets,
+			:Method * :Solve * :n_markets, :Cluster * :Solve * :n_markets
+		),
+		Effects(
+			:Method, :Cluster, :Method * :Cluster, :Solve, :Method * :Solve,
+			:Cluster * :Solve, :Method * :Cluster * :Solve, :n_markets,
+			:Method * :n_markets, :Cluster * :n_markets,
+			:Method * :Cluster * :n_markets, :Solve * :n_markets,
+			:Method * :Solve * :n_markets, :Cluster * :Solve * :n_markets,
+			:Method * :Cluster * :Solve * :n_markets
+		)
+	),
+	Emphasis( "Effect Screening" ),
+	Run(
+		Profiler(
+			1,
+			Confidence Intervals( 1 ),
+			Desirability Functions( 1 ),
+			Term Value(
+				Cluster( "Coverage", Lock( 0 ), Show( 1 ) ),
+				Solve( "TSS", Lock( 0 ), Show( 1 ) ),
+				n_markets( 3, Lock( 0 ), Show( 1 ) )
+			)
+		),
+		:"1/TCS^2"n << {Summary of Fit( 0 ), Analysis of Variance( 0 ),
+		Parameter Estimates( 1 ), Lack of Fit( 0 ), Sorted Estimates( 0 ),
+		Scaled Estimates( 1 ), Plot Actual by Predicted( 1 ), Plot Regression( 0 ),
+		Plot Residual by Predicted( 1 ), Plot Residual by Row( 1 ),
+		Plot Studentized Residuals( 1 ), Plot Effect Leverage( 1 ),
+		Plot Residual by Normal Quantiles( 1 ), Box Cox Y Transformation( 0 )}
+	)
+);

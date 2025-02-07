@@ -1,0 +1,2 @@
+ctime() ExpName[i] card(tot_iis_indices) TotTSS TotTCS TotTPF _total_solve_elapsed_time _total_solve_system_time _total_solve_user_time _total_solve_time
+Wed Apr 03 13:21:16 2024 market_assignments_Coverage_4_MC 9.0000000000 2487171959.7489962578 2703253977.4549551010 1832946743.0265214443 0.6580000000 0.0312500000 0.0781250000 0.1093750000

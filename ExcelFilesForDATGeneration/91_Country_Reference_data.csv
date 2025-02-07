@@ -1,0 +1,737 @@
+﻿Country,WHO Region,Current WB Status,Measure Names,Birth Cohort,GNI per Capita (USD),Label location_IMR,Label location_UMR,Population ,"Avg. Infant mortality rate (infant deaths per 1,000 live births)","Avg. Under-five mortality (deaths under age 5 per 1,000 live births)"
+Afghanistan,EMR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1174821,500,,,39835428,46.381,
+Afghanistan,EMR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1174821,500,,,39835428,,60.494
+Afghanistan,EMR,LIC,Label location_IMR along Table (Down),1174821,500,75.273,,39835428,46.381,
+Afghanistan,EMR,LIC,Label location_UMR along Table (Down),1174821,500,,121.653,39835428,,60.494
+Albania,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",30469,5210,,,2872934,11.544,
+Albania,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",30469,5210,,,2872934,,13.008
+Albania,EUR,UMIC,Label location_IMR along Table (Down),30469,5210,75.273,,2872934,11.544,
+Albania,EUR,UMIC,Label location_UMR along Table (Down),30469,5210,,121.653,2872934,,13.008
+Algeria,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",984740,3550,,,44616626,20.638,
+Algeria,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",984740,3550,,,44616626,,23.99
+Algeria,AFR,LMIC,Label location_IMR along Table (Down),984740,3550,75.273,,44616626,20.638,
+Algeria,AFR,LMIC,Label location_UMR along Table (Down),984740,3550,,121.653,44616626,,23.99
+Angola,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1242848,2230,,,33933611,55.461,
+Angola,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1242848,2230,,,33933611,,83.499
+Angola,AFR,LMIC,Label location_IMR along Table (Down),1242848,2230,75.273,,33933611,55.461,
+Angola,AFR,LMIC,Label location_UMR along Table (Down),1242848,2230,,121.653,33933611,,83.499
+Antigua,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1420,14250,,,98728,6.97,
+Antigua,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1420,14250,,,98728,,8.722
+Antigua,AMR,HIC,Label location_IMR along Table (Down),1420,14250,75.273,,98728,6.97,
+Antigua,AMR,HIC,Label location_UMR along Table (Down),1420,14250,,121.653,98728,,8.722
+Argentina,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",738513,8930,,,45605823,10.712,
+Argentina,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",738513,8930,,,45605823,,12.567
+Argentina,AMR,UMIC,Label location_IMR along Table (Down),738513,8930,75.273,,45605823,10.712,
+Argentina,AMR,UMIC,Label location_UMR along Table (Down),738513,8930,,121.653,45605823,,12.567
+Armenia,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",37757,4220,,,2968128,10.056,
+Armenia,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",37757,4220,,,2968128,,12.407
+Armenia,EUR,UMIC,Label location_IMR along Table (Down),37757,4220,75.273,,2968128,10.056,
+Armenia,EUR,UMIC,Label location_UMR along Table (Down),37757,4220,,121.653,2968128,,12.407
+Australia,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",337376,53730,,,25788217,2.85,
+Australia,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",337376,53730,,,25788217,,3.414
+Australia,WPR,HIC,Label location_IMR along Table (Down),337376,53730,75.273,,25788217,2.85,
+Australia,WPR,HIC,Label location_UMR along Table (Down),337376,53730,,121.653,25788217,,3.414
+Austria,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",92228,51390,,,9043072,1.899,
+Austria,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",92228,51390,,,9043072,,2.324
+Austria,EUR,HIC,Label location_IMR along Table (Down),92228,51390,75.273,,9043072,1.899,
+Austria,EUR,HIC,Label location_UMR along Table (Down),92228,51390,,121.653,9043072,,2.324
+Azerbaijan,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",137102,4450,,,10223344,26.056,
+Azerbaijan,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",137102,4450,,,10223344,,29.841
+Azerbaijan,EUR,UMIC,Label location_IMR along Table (Down),137102,4450,75.273,,10223344,26.056,
+Azerbaijan,EUR,UMIC,Label location_UMR along Table (Down),137102,4450,,121.653,10223344,,29.841
+Bahamas,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",5998,27780,,,396914,7.372,
+Bahamas,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",5998,27780,,,396914,,10.933
+Bahamas,AMR,HIC,Label location_IMR along Table (Down),5998,27780,75.273,,396914,7.372,
+Bahamas,AMR,HIC,Label location_UMR along Table (Down),5998,27780,,121.653,396914,,10.933
+Bahrain,EMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",20009,22170,,,1748295,5.467,
+Bahrain,EMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",20009,22170,,,1748295,,6.983
+Bahrain,EMR,HIC,Label location_IMR along Table (Down),20009,22170,75.273,,1748295,5.467,
+Bahrain,EMR,HIC,Label location_UMR along Table (Down),20009,22170,,121.653,1748295,,6.983
+Bangladesh,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2823519,2010,,,166303494,22.818,
+Bangladesh,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2823519,2010,,,166303494,,28.495
+Bangladesh,SEAR,LMIC,Label location_IMR along Table (Down),2823519,2010,75.273,,166303494,22.818,
+Bangladesh,SEAR,LMIC,Label location_UMR along Table (Down),2823519,2010,,121.653,166303494,,28.495
+Barbados,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",3142,14460,,,287708,7.213,
+Barbados,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",3142,14460,,,287708,,8.488
+Barbados,AMR,HIC,Label location_IMR along Table (Down),3142,14460,75.273,,287708,7.213,
+Barbados,AMR,HIC,Label location_UMR along Table (Down),3142,14460,,121.653,287708,,8.488
+Belarus,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",91670,6330,,,9442867,2.691,
+Belarus,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",91670,6330,,,9442867,,3.521
+Belarus,EUR,UMIC,Label location_IMR along Table (Down),91670,6330,75.273,,9442867,2.691,
+Belarus,EUR,UMIC,Label location_UMR along Table (Down),91670,6330,,121.653,9442867,,3.521
+Belgium,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",122962,47960,,,11632334,2.47,
+Belgium,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",122962,47960,,,11632334,,3.07
+Belgium,EUR,HIC,Label location_IMR along Table (Down),122962,47960,75.273,,11632334,2.47,
+Belgium,EUR,HIC,Label location_UMR along Table (Down),122962,47960,,121.653,11632334,,3.07
+Belize,AMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",7926,3970,,,404915,10.236,
+Belize,AMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",7926,3970,,,404915,,11.931
+Belize,AMR,LMIC,Label location_IMR along Table (Down),7926,3970,75.273,,404915,10.236,
+Belize,AMR,LMIC,Label location_UMR along Table (Down),7926,3970,,121.653,404915,,11.931
+Benin,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",408062,1280,,,12451031,57.429,
+Benin,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",408062,1280,,,12451031,,89.853
+Benin,AFR,LMIC,Label location_IMR along Table (Down),408062,1280,75.273,,12451031,57.429,
+Benin,AFR,LMIC,Label location_UMR along Table (Down),408062,1280,,121.653,12451031,,89.853
+Bhutan,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",13267,2860,,,779900,20.837,
+Bhutan,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",13267,2860,,,779900,,25.657
+Bhutan,SEAR,LMIC,Label location_IMR along Table (Down),13267,2860,75.273,,779900,20.837,
+Bhutan,SEAR,LMIC,Label location_UMR along Table (Down),13267,2860,,121.653,779900,,25.657
+Bolivia,AMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",237991,3200,,,11832936,30.314,
+Bolivia,AMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",237991,3200,,,11832936,,51.18
+Bolivia,AMR,LMIC,Label location_IMR along Table (Down),237991,3200,75.273,,11832936,30.314,
+Bolivia,AMR,LMIC,Label location_UMR along Table (Down),237991,3200,,121.653,11832936,,51.18
+Bosnia,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",24754,6090,,,3263459,5.712,
+Bosnia,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",24754,6090,,,3263459,,6.769
+Bosnia,EUR,UMIC,Label location_IMR along Table (Down),24754,6090,75.273,,3263459,5.712,
+Bosnia,EUR,UMIC,Label location_UMR along Table (Down),24754,6090,,121.653,3263459,,6.769
+Botswana,AFR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",53115,6640,,,2397240,24.976,
+Botswana,AFR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",53115,6640,,,2397240,,30.104
+Botswana,AFR,UMIC,Label location_IMR along Table (Down),53115,6640,75.273,,2397240,24.976,
+Botswana,AFR,UMIC,Label location_UMR along Table (Down),53115,6640,,121.653,2397240,,30.104
+Brazil,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2822323,7850,,,213993441,11.756,
+Brazil,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2822323,7850,,,213993441,,13.779
+Brazil,AMR,UMIC,Label location_IMR along Table (Down),2822323,7850,75.273,,213993441,11.756,
+Brazil,AMR,UMIC,Label location_UMR along Table (Down),2822323,7850,,121.653,213993441,,13.779
+Brunei,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",5299,32230,,,441532,5.082,
+Brunei,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",5299,32230,,,441532,,6.117
+Brunei,WPR,HIC,Label location_IMR along Table (Down),5299,32230,75.273,,441532,5.082,
+Brunei,WPR,HIC,Label location_UMR along Table (Down),5299,32230,,121.653,441532,,6.117
+Bulgaria,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",64173,9540,,,6896655,6.555,
+Bulgaria,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",64173,9540,,,6896655,,7.844
+Bulgaria,EUR,UMIC,Label location_IMR along Table (Down),64173,9540,75.273,,6896655,6.555,
+Bulgaria,EUR,UMIC,Label location_UMR along Table (Down),64173,9540,,121.653,6896655,,7.844
+Burkina Faso,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",743945,790,,,21497097,48.025,
+Burkina Faso,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",743945,790,,,21497097,,74.255
+Burkina Faso,AFR,LIC,Label location_IMR along Table (Down),743945,790,75.273,,21497097,48.025,
+Burkina Faso,AFR,LIC,Label location_UMR along Table (Down),743945,790,,121.653,21497097,,74.255
+Burundi,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",430286,270,,,12255429,63.023,
+Burundi,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",430286,270,,,12255429,,100.033
+Burundi,AFR,LIC,Label location_IMR along Table (Down),430286,270,75.273,,12255429,63.023,
+Burundi,AFR,LIC,Label location_UMR along Table (Down),430286,270,,121.653,12255429,,100.033
+Cabo Verde,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",9900,3060,,,561901,18.155,
+Cabo Verde,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",9900,3060,,,561901,,21.231
+Cabo Verde,AFR,LMIC,Label location_IMR along Table (Down),9900,3060,75.273,,561901,18.155,
+Cabo Verde,AFR,LMIC,Label location_UMR along Table (Down),9900,3060,,121.653,561901,,21.231
+Cambodia,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",351572,1490,,,16946446,17.878,
+Cambodia,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",351572,1490,,,16946446,,20.985
+Cambodia,WPR,LMIC,Label location_IMR along Table (Down),351572,1490,75.273,,16946446,17.878,
+Cambodia,WPR,LMIC,Label location_UMR along Table (Down),351572,1490,,121.653,16946446,,20.985
+Cameroon,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",866087,1500,,,27224262,53.341,
+Cameroon,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",866087,1500,,,27224262,,80.072
+Cameroon,AFR,LMIC,Label location_IMR along Table (Down),866087,1500,75.273,,27224262,53.341,
+Cameroon,AFR,LMIC,Label location_UMR along Table (Down),866087,1500,,121.653,27224262,,80.072
+Canada,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",403059,43440,,,38067913,3.631,
+Canada,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",403059,43440,,,38067913,,4.539
+Canada,AMR,HIC,Label location_IMR along Table (Down),403059,43440,75.273,,38067913,3.631,
+Canada,AMR,HIC,Label location_UMR along Table (Down),403059,43440,,121.653,38067913,,4.539
+CAR,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",155936,510,,,4919987,75.273,
+CAR,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",155936,510,,,4919987,,118.673
+CAR,AFR,LIC,Label location_IMR along Table (Down),155936,510,75.273,,4919987,75.273,
+CAR,AFR,LIC,Label location_UMR along Table (Down),155936,510,,121.653,4919987,,118.673
+Chad,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",635796,660,,,16914985,74.244,
+Chad,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",635796,660,,,16914985,,121.653
+Chad,AFR,LIC,Label location_IMR along Table (Down),635796,660,75.273,,16914985,74.244,
+Chad,AFR,LIC,Label location_UMR along Table (Down),635796,660,,121.653,16914985,,121.653
+Chile,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",214955,13470,,,19212362,5.624,
+Chile,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",214955,13470,,,19212362,,6.767
+Chile,AMR,HIC,Label location_IMR along Table (Down),214955,13470,75.273,,19212362,5.624,
+Chile,AMR,HIC,Label location_UMR along Table (Down),214955,13470,,121.653,19212362,,6.767
+China,WPR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",15769303,10610,,,1444216102,9.073,
+China,WPR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",15769303,10610,,,1444216102,,10.581
+China,WPR,UMIC,Label location_IMR along Table (Down),15769303,10610,75.273,,1444216102,9.073,
+China,WPR,UMIC,Label location_UMR along Table (Down),15769303,10610,,121.653,1444216102,,10.581
+Colombia,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",737615,5780,,,51265841,14.01,
+Colombia,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",737615,5780,,,51265841,,19.785
+Colombia,AMR,UMIC,Label location_IMR along Table (Down),737615,5780,75.273,,51265841,14.01,
+Colombia,AMR,UMIC,Label location_UMR along Table (Down),737615,5780,,121.653,51265841,,19.785
+Comoros,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",25413,1450,,,888456,50.059,
+Comoros,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",25413,1450,,,888456,,65.24
+Comoros,AFR,LMIC,Label location_IMR along Table (Down),25413,1450,75.273,,888456,50.059,
+Comoros,AFR,LMIC,Label location_UMR along Table (Down),25413,1450,,121.653,888456,,65.24
+Congo,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",169654,1830,,,5657017,35.734,
+Congo,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",169654,1830,,,5657017,,49.112
+Congo,AFR,LMIC,Label location_IMR along Table (Down),169654,1830,75.273,,5657017,35.734,
+Congo,AFR,LMIC,Label location_UMR along Table (Down),169654,1830,,121.653,5657017,,49.112
+Costa Rica,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",66716,11460,,,5139053,7.163,
+Costa Rica,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",66716,11460,,,5139053,,9.922
+Costa Rica,AMR,UMIC,Label location_IMR along Table (Down),66716,11460,75.273,,5139053,7.163,
+Costa Rica,AMR,UMIC,Label location_UMR along Table (Down),66716,11460,,121.653,5139053,,9.922
+Côte d'Ivoire,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",884419,2280,,,27053629,50.973,
+Côte d'Ivoire,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",884419,2280,,,27053629,,72.643
+Côte d'Ivoire,AFR,LMIC,Label location_IMR along Table (Down),884419,2280,75.273,,27053629,50.973,
+Côte d'Ivoire,AFR,LMIC,Label location_UMR along Table (Down),884419,2280,,121.653,27053629,,72.643
+Croatia,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",35231,14190,,,4081657,3.046,
+Croatia,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",35231,14190,,,4081657,,3.895
+Croatia,EUR,HIC,Label location_IMR along Table (Down),35231,14190,75.273,,4081657,3.046,
+Croatia,EUR,HIC,Label location_UMR along Table (Down),35231,14190,,121.653,4081657,,3.895
+Cuba,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",99333,7480,,,11317498,4.384,
+Cuba,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",99333,7480,,,11317498,,5.519
+Cuba,AMR,UMIC,Label location_IMR along Table (Down),99333,7480,75.273,,11317498,4.384,
+Cuba,AMR,UMIC,Label location_UMR along Table (Down),99333,7480,,121.653,11317498,,5.519
+Cyprus,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",12082,26110,,,1215588,3.244,
+Cyprus,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",12082,26110,,,1215588,,3.859
+Cyprus,EUR,HIC,Label location_IMR along Table (Down),12082,26110,75.273,,1215588,3.244,
+Cyprus,EUR,HIC,Label location_UMR along Table (Down),12082,26110,,121.653,1215588,,3.859
+Czech Rep.,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",116010,21930,,,10724553,2.084,
+Czech Rep.,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",116010,21930,,,10724553,,2.589
+Czech Rep.,EUR,HIC,Label location_IMR along Table (Down),116010,21930,75.273,,10724553,2.084,
+Czech Rep.,EUR,HIC,Label location_UMR along Table (Down),116010,21930,,121.653,10724553,,2.589
+Denmark,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",69086,62720,,,5813302,2.631,
+Denmark,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",69086,62720,,,5813302,,3.052
+Denmark,EUR,HIC,Label location_IMR along Table (Down),69086,62720,75.273,,5813302,2.631,
+Denmark,EUR,HIC,Label location_UMR along Table (Down),69086,62720,,121.653,5813302,,3.052
+Djibouti,EMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",18693,3320,,,1002197,47.941,
+Djibouti,EMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",18693,3320,,,1002197,,72.401
+Djibouti,EMR,LMIC,Label location_IMR along Table (Down),18693,3320,75.273,,1002197,47.941,
+Djibouti,EMR,LMIC,Label location_UMR along Table (Down),18693,3320,,121.653,1002197,,72.401
+Dominican Rep.,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",198050,7260,,,10953714,20.041,
+Dominican Rep.,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",198050,7260,,,10953714,,22.561
+Dominican Rep.,AMR,UMIC,Label location_IMR along Table (Down),198050,7260,75.273,,10953714,20.041,
+Dominican Rep.,AMR,UMIC,Label location_UMR along Table (Down),198050,7260,,121.653,10953714,,22.561
+DRC,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",3404266,550,,,92377986,59.53,
+DRC,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",3404266,550,,,92377986,,90.93
+DRC,AFR,LIC,Label location_IMR along Table (Down),3404266,550,75.273,,92377986,59.53,
+DRC,AFR,LIC,Label location_UMR along Table (Down),3404266,550,,121.653,92377986,,90.93
+Ecuador,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",335206,5530,,,17888474,16.84,
+Ecuador,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",335206,5530,,,17888474,,20.344
+Ecuador,AMR,UMIC,Label location_IMR along Table (Down),335206,5530,75.273,,17888474,16.84,
+Ecuador,AMR,UMIC,Label location_UMR along Table (Down),335206,5530,,121.653,17888474,,20.344
+Egypt,EMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2313511,3000,,,104258327,14.002,
+Egypt,EMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2313511,3000,,,104258327,,17.911
+Egypt,EMR,LMIC,Label location_IMR along Table (Down),2313511,3000,75.273,,104258327,14.002,
+Egypt,EMR,LMIC,Label location_UMR along Table (Down),2313511,3000,,121.653,104258327,,17.911
+El Salvador,AMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",115530,3650,,,6518500,12.365,
+El Salvador,AMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",115530,3650,,,6518500,,14.444
+El Salvador,AMR,LMIC,Label location_IMR along Table (Down),115530,3650,75.273,,6518500,12.365,
+El Salvador,AMR,LMIC,Label location_UMR along Table (Down),115530,3650,,121.653,6518500,,14.444
+Equatorial Guinea,AFR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",42991,5810,,,1449891,56.202,
+Equatorial Guinea,AFR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",42991,5810,,,1449891,,85.18
+Equatorial Guinea,AFR,UMIC,Label location_IMR along Table (Down),42991,5810,75.273,,1449891,56.202,
+Equatorial Guinea,AFR,UMIC,Label location_UMR along Table (Down),42991,5810,,121.653,1449891,,85.18
+Eritrea,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",106717,600,,,3601462,28.182,
+Eritrea,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",106717,600,,,3601462,,36.127
+Eritrea,AFR,LIC,Label location_IMR along Table (Down),106717,600,75.273,,3601462,28.182,
+Eritrea,AFR,LIC,Label location_UMR along Table (Down),106717,600,,121.653,3601462,,36.127
+Estonia,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",13637,23230,,,1325188,2.57,
+Estonia,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",13637,23230,,,1325188,,3.432
+Estonia,EUR,HIC,Label location_IMR along Table (Down),13637,23230,75.273,,1325188,2.57,
+Estonia,EUR,HIC,Label location_UMR along Table (Down),13637,23230,,121.653,1325188,,3.432
+Eswatini,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",29719,3580,,,1172369,38.792,
+Eswatini,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",29719,3580,,,1172369,,48.543
+Eswatini,AFR,LMIC,Label location_IMR along Table (Down),29719,3580,75.273,,1172369,38.792,
+Eswatini,AFR,LMIC,Label location_UMR along Table (Down),29719,3580,,121.653,1172369,,48.543
+Ethiopia,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",3514676,890,,,117876226,31.126,
+Ethiopia,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",3514676,890,,,117876226,,46.26
+Ethiopia,AFR,LIC,Label location_IMR along Table (Down),3514676,890,75.273,,117876226,31.126,
+Ethiopia,AFR,LIC,Label location_UMR along Table (Down),3514676,890,,121.653,117876226,,46.26
+Fiji,WPR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",17699,4720,,,902899,12.303,
+Fiji,WPR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",17699,4720,,,902899,,15.364
+Fiji,WPR,UMIC,Label location_IMR along Table (Down),17699,4720,75.273,,902899,12.303,
+Fiji,WPR,UMIC,Label location_UMR along Table (Down),17699,4720,,121.653,902899,,15.364
+Finland,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",47133,49620,,,5548361,1.383,
+Finland,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",47133,49620,,,5548361,,1.699
+Finland,EUR,HIC,Label location_IMR along Table (Down),47133,49620,75.273,,5548361,1.383,
+Finland,EUR,HIC,Label location_UMR along Table (Down),47133,49620,,121.653,5548361,,1.699
+France,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",693637,42290,,,65426177,2.577,
+France,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",693637,42290,,,65426177,,3.076
+France,EUR,HIC,Label location_IMR along Table (Down),693637,42290,75.273,,65426177,2.577,
+France,EUR,HIC,Label location_UMR along Table (Down),693637,42290,,121.653,65426177,,3.076
+Gabon,AFR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",65600,6970,,,2278829,32.277,
+Gabon,AFR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",65600,6970,,,2278829,,43.581
+Gabon,AFR,UMIC,Label location_IMR along Table (Down),65600,6970,75.273,,2278829,32.277,
+Gabon,AFR,UMIC,Label location_UMR along Table (Down),65600,6970,,121.653,2278829,,43.581
+Gambia,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",87801,750,,,2486937,42.175,
+Gambia,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",87801,750,,,2486937,,63.788
+Gambia,AFR,LIC,Label location_IMR along Table (Down),87801,750,75.273,,2486937,42.175,
+Gambia,AFR,LIC,Label location_UMR along Table (Down),87801,750,,121.653,2486937,,63.788
+Georgia,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",47582,4290,,,3979773,8.383,
+Georgia,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",47582,4290,,,3979773,,9.958
+Georgia,EUR,UMIC,Label location_IMR along Table (Down),47582,4290,75.273,,3979773,8.383,
+Georgia,EUR,UMIC,Label location_UMR along Table (Down),47582,4290,,121.653,3979773,,9.958
+Germany,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",831377,46980,,,83900471,1.801,
+Germany,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",831377,46980,,,83900471,,2.225
+Germany,EUR,HIC,Label location_IMR along Table (Down),831377,46980,75.273,,83900471,1.801,
+Germany,EUR,HIC,Label location_UMR along Table (Down),831377,46980,,121.653,83900471,,2.225
+Ghana,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",852148,2230,,,31732128,36.886,
+Ghana,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",852148,2230,,,31732128,,54.154
+Ghana,AFR,LMIC,Label location_IMR along Table (Down),852148,2230,75.273,,31732128,36.886,
+Ghana,AFR,LMIC,Label location_UMR along Table (Down),852148,2230,,121.653,31732128,,54.154
+Greece,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",78626,19690,,,10370747,2.684,
+Greece,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",78626,19690,,,10370747,,3.067
+Greece,EUR,HIC,Label location_IMR along Table (Down),78626,19690,75.273,,10370747,2.684,
+Greece,EUR,HIC,Label location_UMR along Table (Down),78626,19690,,121.653,10370747,,3.067
+Grenada,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1748,8740,,,113015,7.744,
+Grenada,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1748,8740,,,113015,,10.599
+Grenada,AMR,UMIC,Label location_IMR along Table (Down),1748,8740,75.273,,113015,7.744,
+Grenada,AMR,UMIC,Label location_UMR along Table (Down),1748,8740,,121.653,113015,,10.599
+Guatemala,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",419893,4490,,,18249868,19.417,
+Guatemala,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",419893,4490,,,18249868,,23.666
+Guatemala,AMR,UMIC,Label location_IMR along Table (Down),419893,4490,75.273,,18249868,19.417,
+Guatemala,AMR,UMIC,Label location_UMR along Table (Down),419893,4490,,121.653,18249868,,23.666
+Guinea,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",451222,1020,,,13497237,43.472,
+Guinea,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",451222,1020,,,13497237,,68.068
+Guinea,AFR,LIC,Label location_IMR along Table (Down),451222,1020,75.273,,13497237,43.472,
+Guinea,AFR,LIC,Label location_UMR along Table (Down),451222,1020,,121.653,13497237,,68.068
+Guinea-Bissau,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",63361,760,,,2015490,63.426,
+Guinea-Bissau,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",63361,760,,,2015490,,106.623
+Guinea-Bissau,AFR,LIC,Label location_IMR along Table (Down),63361,760,75.273,,2015490,63.426,
+Guinea-Bissau,AFR,LIC,Label location_UMR along Table (Down),63361,760,,121.653,2015490,,106.623
+Guyana,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",14115,6600,,,790329,29.06,
+Guyana,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",14115,6600,,,790329,,36.063
+Guyana,AMR,UMIC,Label location_IMR along Table (Down),14115,6600,75.273,,790329,29.06,
+Guyana,AMR,UMIC,Label location_UMR along Table (Down),14115,6600,,121.653,790329,,36.063
+Haiti,AMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",253692,1250,,,11541683,39.082,
+Haiti,AMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",253692,1250,,,11541683,,64.111
+Haiti,AMR,LMIC,Label location_IMR along Table (Down),253692,1250,75.273,,11541683,39.082,
+Haiti,AMR,LMIC,Label location_UMR along Table (Down),253692,1250,,121.653,11541683,,64.111
+Honduras,AMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",211471,2200,,,10062994,22.078,
+Honduras,AMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",211471,2200,,,10062994,,31.987
+Honduras,AMR,LMIC,Label location_IMR along Table (Down),211471,2200,75.273,,10062994,22.078,
+Honduras,AMR,LMIC,Label location_UMR along Table (Down),211471,2200,,121.653,10062994,,31.987
+Hungary,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",97460,16530,,,9634162,3.968,
+Hungary,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",97460,16530,,,9634162,,4.703
+Hungary,EUR,HIC,Label location_IMR along Table (Down),97460,16530,75.273,,9634162,3.968,
+Hungary,EUR,HIC,Label location_UMR along Table (Down),97460,16530,,121.653,9634162,,4.703
+Iceland,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",3904,72930,,,343360,1.348,
+Iceland,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",3904,72930,,,343360,,1.796
+Iceland,EUR,HIC,Label location_IMR along Table (Down),3904,72930,75.273,,343360,1.348,
+Iceland,EUR,HIC,Label location_UMR along Table (Down),3904,72930,,121.653,343360,,1.796
+India,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",24139062,53200,,,1393409033,31.079,
+India,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",24139062,53200,,,1393409033,,39.612
+India,SEAR,LMIC,Label location_IMR along Table (Down),24139062,53200,75.273,,1393409033,31.079,
+India,SEAR,LMIC,Label location_UMR along Table (Down),24139062,53200,,121.653,1393409033,,39.612
+Indonesia,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",4443799,3870,,,276361788,19.305,
+Indonesia,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",4443799,3870,,,276361788,,23.518
+Indonesia,SEAR,LMIC,Label location_IMR along Table (Down),4443799,3870,75.273,,276361788,19.305,
+Indonesia,SEAR,LMIC,Label location_UMR along Table (Down),4443799,3870,,121.653,276361788,,23.518
+Iran,EMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1537526,2870,,,85028760,10.398,
+Iran,EMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1537526,2870,,,85028760,,12.191
+Iran,EMR,LMIC,Label location_IMR along Table (Down),1537526,2870,75.273,,85028760,10.398,
+Iran,EMR,LMIC,Label location_UMR along Table (Down),1537526,2870,,121.653,85028760,,12.191
+Iraq,EMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1056458,4660,,,41179351,24.649,
+Iraq,EMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1056458,4660,,,41179351,,28.874
+Iraq,EMR,UMIC,Label location_IMR along Table (Down),1056458,4660,75.273,,41179351,24.649,
+Iraq,EMR,UMIC,Label location_UMR along Table (Down),1056458,4660,,121.653,41179351,,28.874
+Ireland,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",56494,63470,,,4982904,1.691,
+Ireland,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",56494,63470,,,4982904,,2.027
+Ireland,EUR,HIC,Label location_IMR along Table (Down),56494,63470,75.273,,4982904,1.691,
+Ireland,EUR,HIC,Label location_UMR along Table (Down),56494,63470,,121.653,4982904,,2.027
+Israel,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",166054,43070,,,8789776,2.431,
+Israel,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",166054,43070,,,8789776,,2.996
+Israel,EUR,HIC,Label location_IMR along Table (Down),166054,43070,75.273,,8789776,2.431,
+Israel,EUR,HIC,Label location_UMR along Table (Down),166054,43070,,121.653,8789776,,2.996
+Italy,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",424840,32200,,,60367471,2.075,
+Italy,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",424840,32200,,,60367471,,2.406
+Italy,EUR,HIC,Label location_IMR along Table (Down),424840,32200,75.273,,60367471,2.075,
+Italy,EUR,HIC,Label location_UMR along Table (Down),424840,32200,,121.653,60367471,,2.406
+Jamaica,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",43888,4620,,,2973462,12.163,
+Jamaica,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",43888,4620,,,2973462,,14.508
+Jamaica,AMR,UMIC,Label location_IMR along Table (Down),43888,4620,75.273,,2973462,12.163,
+Jamaica,AMR,UMIC,Label location_UMR along Table (Down),43888,4620,,121.653,2973462,,14.508
+Japan,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",859283,41580,,,126050796,1.728,
+Japan,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",859283,41580,,,126050796,,2.413
+Japan,WPR,HIC,Label location_IMR along Table (Down),859283,41580,75.273,,126050796,1.728,
+Japan,WPR,HIC,Label location_UMR along Table (Down),859283,41580,,121.653,126050796,,2.413
+Jordan,EMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",200010,4310,,,10269022,13.441,
+Jordan,EMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",200010,4310,,,10269022,,15.641
+Jordan,EMR,UMIC,Label location_IMR along Table (Down),200010,4310,75.273,,10269022,13.441,
+Jordan,EMR,UMIC,Label location_UMR along Table (Down),200010,4310,,121.653,10269022,,15.641
+Kazakhstan,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",347865,8680,,,18994958,10.321,
+Kazakhstan,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",347865,8680,,,18994958,,12.79
+Kazakhstan,EUR,UMIC,Label location_IMR along Table (Down),347865,8680,75.273,,18994958,10.321,
+Kazakhstan,EUR,UMIC,Label location_UMR along Table (Down),347865,8680,,121.653,18994958,,12.79
+Kenya,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1447992,1760,,,54985702,32.167,
+Kenya,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1447992,1760,,,54985702,,43.41
+Kenya,AFR,LMIC,Label location_IMR along Table (Down),1447992,1760,75.273,,54985702,32.167,
+Kenya,AFR,LMIC,Label location_UMR along Table (Down),1447992,1760,,121.653,54985702,,43.41
+Kiribati,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",3203,3010,,,121388,40.528,
+Kiribati,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",3203,3010,,,121388,,50.871
+Kiribati,WPR,LMIC,Label location_IMR along Table (Down),3203,3010,75.273,,121388,40.528,
+Kiribati,WPR,LMIC,Label location_UMR along Table (Down),3203,3010,,121.653,121388,,50.871
+Kuwait,EMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",52972,36290,,,4328553,6.546,
+Kuwait,EMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",52972,36290,,,4328553,,8.409
+Kuwait,EMR,HIC,Label location_IMR along Table (Down),52972,36290,75.273,,4328553,6.546,
+Kuwait,EMR,HIC,Label location_UMR along Table (Down),52972,36290,,121.653,4328553,,8.409
+Kyrgyzstan,EUR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",133433,1160,,,6628347,15.013,
+Kyrgyzstan,EUR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",133433,1160,,,6628347,,17.718
+Kyrgyzstan,EUR,LMIC,Label location_IMR along Table (Down),133433,1160,75.273,,6628347,15.013,
+Kyrgyzstan,EUR,LMIC,Label location_UMR along Table (Down),133433,1160,,121.653,6628347,,17.718
+Laos,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",162859,2480,,,7379358,35.365,
+Laos,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",162859,2480,,,7379358,,43.588
+Laos,WPR,LMIC,Label location_IMR along Table (Down),162859,2480,75.273,,7379358,35.365,
+Laos,WPR,LMIC,Label location_UMR along Table (Down),162859,2480,,121.653,7379358,,43.588
+Latvia,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",25464,17730,,,1866934,4.859,
+Latvia,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",25464,17730,,,1866934,,5.922
+Latvia,EUR,HIC,Label location_IMR along Table (Down),25464,17730,75.273,,1866934,4.859,
+Latvia,EUR,HIC,Label location_UMR along Table (Down),25464,17730,,121.653,1866934,,5.922
+Lebanon,EMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",104633,5510,,,6769151,7.844,
+Lebanon,EMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",104633,5510,,,6769151,,9.111
+Lebanon,EMR,UMIC,Label location_IMR along Table (Down),104633,5510,75.273,,6769151,7.844,
+Lebanon,EMR,UMIC,Label location_UMR along Table (Down),104633,5510,,121.653,6769151,,9.111
+Lesotho,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",52726,1100,,,2159067,43.258,
+Lesotho,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",52726,1100,,,2159067,,55.198
+Lesotho,AFR,LMIC,Label location_IMR along Table (Down),52726,1100,75.273,,2159067,43.258,
+Lesotho,AFR,LMIC,Label location_UMR along Table (Down),52726,1100,,121.653,2159067,,55.198
+Liberia,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",156812,530,,,5180208,39.626,
+Liberia,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",156812,530,,,5180208,,53.666
+Liberia,AFR,LIC,Label location_IMR along Table (Down),156812,530,75.273,,5180208,39.626,
+Liberia,AFR,LIC,Label location_UMR along Table (Down),156812,530,,121.653,5180208,,53.666
+Libya,EMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",115679,4850,,,6958538,19.096,
+Libya,EMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",115679,4850,,,6958538,,22.711
+Libya,EMR,UMIC,Label location_IMR along Table (Down),115679,4850,75.273,,6958538,19.096,
+Libya,EMR,UMIC,Label location_UMR along Table (Down),115679,4850,,121.653,6958538,,22.711
+Lithuania,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",22976,19000,,,2689862,3.543,
+Lithuania,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",22976,19000,,,2689862,,4.418
+Lithuania,EUR,HIC,Label location_IMR along Table (Down),22976,19000,75.273,,2689862,3.543,
+Lithuania,EUR,HIC,Label location_UMR along Table (Down),22976,19000,,121.653,2689862,,4.418
+Luxembourg,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",6572,70840,,,634814,2.542,
+Luxembourg,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",6572,70840,,,634814,,3.136
+Luxembourg,EUR,HIC,Label location_IMR along Table (Down),6572,70840,75.273,,634814,2.542,
+Luxembourg,EUR,HIC,Label location_UMR along Table (Down),6572,70840,,121.653,634814,,3.136
+Madagascar,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",885134,480,,,28427333,25.077,
+Madagascar,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",885134,480,,,28427333,,37.105
+Madagascar,AFR,LIC,Label location_IMR along Table (Down),885134,480,75.273,,28427333,25.077,
+Madagascar,AFR,LIC,Label location_UMR along Table (Down),885134,480,,121.653,28427333,,37.105
+Malawi,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",623937,580,,,19647681,55.43,
+Malawi,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",623937,580,,,19647681,,68.423
+Malawi,AFR,LIC,Label location_IMR along Table (Down),623937,580,75.273,,19647681,55.43,
+Malawi,AFR,LIC,Label location_UMR along Table (Down),623937,580,,121.653,19647681,,68.423
+Malaysia,WPR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",530872,10580,,,32776195,4.975,
+Malaysia,WPR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",530872,10580,,,32776195,,6.164
+Malaysia,WPR,UMIC,Label location_IMR along Table (Down),530872,10580,75.273,,32776195,4.975,
+Malaysia,WPR,UMIC,Label location_UMR along Table (Down),530872,10580,,121.653,32776195,,6.164
+Maldives,SEAR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",6592,6830,,,543620,5.645,
+Maldives,SEAR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",6592,6830,,,543620,,6.643
+Maldives,SEAR,UMIC,Label location_IMR along Table (Down),6592,6830,75.273,,543620,5.645,
+Maldives,SEAR,UMIC,Label location_UMR along Table (Down),6592,6830,,121.653,543620,,6.643
+Mali,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",781562,830,,,20855724,58.354,
+Mali,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",781562,830,,,20855724,,93.662
+Mali,AFR,LIC,Label location_IMR along Table (Down),781562,830,75.273,,20855724,58.354,
+Mali,AFR,LIC,Label location_UMR along Table (Down),781562,830,,121.653,20855724,,93.662
+Malta,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",4267,25370,,,442790,3.738,
+Malta,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",4267,25370,,,442790,,4.507
+Malta,EUR,HIC,Label location_IMR along Table (Down),4267,25370,75.273,,442790,3.738,
+Malta,EUR,HIC,Label location_UMR along Table (Down),4267,25370,,121.653,442790,,4.507
+Mauritania,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",144852,1640,,,4775110,60.208,
+Mauritania,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",144852,1640,,,4775110,,82.234
+Mauritania,AFR,LMIC,Label location_IMR along Table (Down),144852,1640,75.273,,4775110,60.208,
+Mauritania,AFR,LMIC,Label location_UMR along Table (Down),144852,1640,,121.653,4775110,,82.234
+Mauritius,AFR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",12800,10230,,,1273428,9.371,
+Mauritius,AFR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",12800,10230,,,1273428,,11.411
+Mauritius,AFR,UMIC,Label location_IMR along Table (Down),12800,10230,75.273,,1273428,9.371,
+Mauritius,AFR,UMIC,Label location_UMR along Table (Down),12800,10230,,121.653,1273428,,11.411
+Mexico,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2127508,8480,,,130262220,15.012,
+Mexico,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2127508,8480,,,130262220,,18.596
+Mexico,AMR,UMIC,Label location_IMR along Table (Down),2127508,8480,75.273,,130262220,15.012,
+Mexico,AMR,UMIC,Label location_UMR along Table (Down),2127508,8480,,121.653,130262220,,18.596
+Micronesia,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2570,4010,,,116255,29.605,
+Micronesia,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2570,4010,,,116255,,35.862
+Micronesia,WPR,LMIC,Label location_IMR along Table (Down),2570,4010,75.273,,116255,29.605,
+Micronesia,WPR,LMIC,Label location_UMR along Table (Down),2570,4010,,121.653,116255,,35.862
+Moldova,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",37082,4570,,,4024025,11.221,
+Moldova,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",37082,4570,,,4024025,,13.106
+Moldova,EUR,UMIC,Label location_IMR along Table (Down),37082,4570,75.273,,4024025,11.221,
+Moldova,EUR,UMIC,Label location_UMR along Table (Down),37082,4570,,121.653,4024025,,13.106
+Mongolia,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",68577,3670,,,3329282,16.321,
+Mongolia,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",68577,3670,,,3329282,,20.21
+Mongolia,WPR,LMIC,Label location_IMR along Table (Down),68577,3670,75.273,,3329282,16.321,
+Mongolia,WPR,LMIC,Label location_UMR along Table (Down),68577,3670,,121.653,3329282,,20.21
+Montenegro,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",7567,7900,,,628051,3.038,
+Montenegro,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",7567,7900,,,628051,,5.358
+Montenegro,EUR,UMIC,Label location_IMR along Table (Down),7567,7900,75.273,,628051,3.038,
+Montenegro,EUR,UMIC,Label location_UMR along Table (Down),7567,7900,,121.653,628051,,5.358
+Morocco,EMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",615958,2980,,,37344787,18.155,
+Morocco,EMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",615958,2980,,,37344787,,21.411
+Morocco,EMR,LMIC,Label location_IMR along Table (Down),615958,2980,75.273,,37344787,18.155,
+Morocco,EMR,LMIC,Label location_UMR along Table (Down),615958,2980,,121.653,37344787,,21.411
+Mozambique,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1109185,460,,,32163045,59.186,
+Mozambique,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1109185,460,,,32163045,,87.288
+Mozambique,AFR,LIC,Label location_IMR along Table (Down),1109185,460,75.273,,32163045,59.186,
+Mozambique,AFR,LIC,Label location_UMR along Table (Down),1109185,460,,121.653,32163045,,87.288
+Myanmar,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",926422,1260,,,54806014,39.862,
+Myanmar,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",926422,1260,,,54806014,,49.766
+Myanmar,SEAR,LMIC,Label location_IMR along Table (Down),926422,1260,75.273,,54806014,39.862,
+Myanmar,SEAR,LMIC,Label location_UMR along Table (Down),926422,1260,,121.653,54806014,,49.766
+N. Macedonia,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",20605,5720,,,2082662,7.167,
+N. Macedonia,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",20605,5720,,,2082662,,8.078
+N. Macedonia,EUR,UMIC,Label location_IMR along Table (Down),20605,5720,75.273,,2082662,7.167,
+N. Macedonia,EUR,UMIC,Label location_UMR along Table (Down),20605,5720,,121.653,2082662,,8.078
+Namibia,AFR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",67274,4520,,,2587344,27.497,
+Namibia,AFR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",67274,4520,,,2587344,,33.512
+Namibia,AFR,UMIC,Label location_IMR along Table (Down),67274,4520,75.273,,2587344,27.497,
+Namibia,AFR,UMIC,Label location_UMR along Table (Down),67274,4520,,121.653,2587344,,33.512
+Nepal,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",547300,1190,,,29674920,22.922,
+Nepal,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",547300,1190,,,29674920,,27.13
+Nepal,SEAR,LMIC,Label location_IMR along Table (Down),547300,1190,75.273,,29674920,22.922,
+Nepal,SEAR,LMIC,Label location_UMR along Table (Down),547300,1190,,121.653,29674920,,27.13
+Netherlands,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",169709,53010,,,17173094,2.23,
+Netherlands,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",169709,53010,,,17173094,,2.622
+Netherlands,EUR,HIC,Label location_IMR along Table (Down),169709,53010,75.273,,17173094,2.23,
+Netherlands,EUR,HIC,Label location_UMR along Table (Down),169709,53010,,121.653,17173094,,2.622
+New Zealand,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",60281,42610,,,4860642,3.476,
+New Zealand,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",60281,42610,,,4860642,,4.52
+New Zealand,WPR,HIC,Label location_IMR along Table (Down),60281,42610,75.273,,4860642,3.476,
+New Zealand,WPR,HIC,Label location_UMR along Table (Down),60281,42610,,121.653,4860642,,4.52
+Nicaragua,AMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",128053,1850,,,6702379,14.353,
+Nicaragua,AMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",128053,1850,,,6702379,,16.967
+Nicaragua,AMR,LMIC,Label location_IMR along Table (Down),128053,1850,75.273,,6702379,14.353,
+Nicaragua,AMR,LMIC,Label location_UMR along Table (Down),128053,1850,,121.653,6702379,,16.967
+Niger,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1061139,540,,,25130810,51.184,
+Niger,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1061139,540,,,25130810,,93.18
+Niger,AFR,LIC,Label location_IMR along Table (Down),1061139,540,75.273,,25130810,51.184,
+Niger,AFR,LIC,Label location_UMR along Table (Down),1061139,540,,121.653,25130810,,93.18
+Nigeria,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",7205554,2000,,,211400704,57.098,
+Nigeria,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",7205554,2000,,,211400704,,93.003
+Nigeria,AFR,LMIC,Label location_IMR along Table (Down),7205554,2000,75.273,,211400704,57.098,
+Nigeria,AFR,LMIC,Label location_UMR along Table (Down),7205554,2000,,121.653,211400704,,93.003
+North Korea,SEAR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",350110,0,,,25887045,11.872,
+North Korea,SEAR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",350110,0,,,25887045,,15.828
+North Korea,SEAR,LIC,Label location_IMR along Table (Down),350110,0,75.273,,25887045,11.872,
+North Korea,SEAR,LIC,Label location_UMR along Table (Down),350110,0,,121.653,25887045,,15.828
+Norway,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",60779,78250,,,5465629,1.531,
+Norway,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",60779,78250,,,5465629,,1.86
+Norway,EUR,HIC,Label location_IMR along Table (Down),60779,78250,75.273,,5465629,1.531,
+Norway,EUR,HIC,Label location_UMR along Table (Down),60779,78250,,121.653,5465629,,1.86
+Oman,EMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",95788,14150,,,5223376,6.973,
+Oman,EMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",95788,14150,,,5223376,,8.172
+Oman,EMR,HIC,Label location_IMR along Table (Down),95788,14150,75.273,,5223376,6.973,
+Oman,EMR,HIC,Label location_UMR along Table (Down),95788,14150,,121.653,5223376,,8.172
+Pakistan,EMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",5790648,1280,,,225199929,59.641,
+Pakistan,EMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",5790648,1280,,,225199929,,74.141
+Pakistan,EMR,LMIC,Label location_IMR along Table (Down),5790648,1280,75.273,,225199929,59.641,
+Pakistan,EMR,LMIC,Label location_UMR along Table (Down),5790648,1280,,121.653,225199929,,74.141
+Panama,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",77743,11880,,,4381583,12.24,
+Panama,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",77743,11880,,,4381583,,16.306
+Panama,AMR,UMIC,Label location_IMR along Table (Down),77743,11880,75.273,,4381583,12.24,
+Panama,AMR,UMIC,Label location_UMR along Table (Down),77743,11880,,121.653,4381583,,16.306
+Papua New Guinea,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",230932,2660,,,9119005,42.279,
+Papua New Guinea,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",230932,2660,,,9119005,,54.336
+Papua New Guinea,WPR,LMIC,Label location_IMR along Table (Down),230932,2660,75.273,,9119005,42.279,
+Papua New Guinea,WPR,LMIC,Label location_UMR along Table (Down),230932,2660,,121.653,9119005,,54.336
+Paraguay,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",143067,5140,,,7219641,26.175,
+Paraguay,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",143067,5140,,,7219641,,31.716
+Paraguay,AMR,UMIC,Label location_IMR along Table (Down),143067,5140,75.273,,7219641,26.175,
+Paraguay,AMR,UMIC,Label location_UMR along Table (Down),143067,5140,,121.653,7219641,,31.716
+Peru,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",617385,6010,,,33359416,13.593,
+Peru,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",617385,6010,,,33359416,,21.388
+Peru,AMR,UMIC,Label location_IMR along Table (Down),617385,6010,75.273,,33359416,13.593,
+Peru,AMR,UMIC,Label location_UMR along Table (Down),617385,6010,,121.653,33359416,,21.388
+Philippines,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1989031,3430,,,111046910,17.929,
+Philippines,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1989031,3430,,,111046910,,23.586
+Philippines,WPR,LMIC,Label location_IMR along Table (Down),1989031,3430,75.273,,111046910,17.929,
+Philippines,WPR,LMIC,Label location_UMR along Table (Down),1989031,3430,,121.653,111046910,,23.586
+Poland,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",386023,15270,,,37797000,3.695,
+Poland,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",386023,15270,,,37797000,,4.371
+Poland,EUR,HIC,Label location_IMR along Table (Down),386023,15270,75.273,,37797000,3.695,
+Poland,EUR,HIC,Label location_UMR along Table (Down),386023,15270,,121.653,37797000,,4.371
+Portugal,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",78031,22000,,,10167923,1.364,
+Portugal,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",78031,22000,,,10167923,,1.668
+Portugal,EUR,HIC,Label location_IMR along Table (Down),78031,22000,75.273,,10167923,1.364,
+Portugal,EUR,HIC,Label location_UMR along Table (Down),78031,22000,,121.653,10167923,,1.668
+Qatar,EMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",26161,56210,,,2930524,5.836,
+Qatar,EMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",26161,56210,,,2930524,,7.007
+Qatar,EMR,HIC,Label location_IMR along Table (Down),26161,56210,75.273,,2930524,5.836,
+Qatar,EMR,HIC,Label location_UMR along Table (Down),26161,56210,,121.653,2930524,,7.007
+Romania,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",197172,12570,,,19127772,6.704,
+Romania,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",197172,12570,,,19127772,,8.016
+Romania,EUR,UMIC,Label location_IMR along Table (Down),197172,12570,75.273,,19127772,6.704,
+Romania,EUR,UMIC,Label location_UMR along Table (Down),197172,12570,,121.653,19127772,,8.016
+Russia,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1691868,10690,,,145912022,6.385,
+Russia,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1691868,10690,,,145912022,,7.895
+Russia,EUR,UMIC,Label location_IMR along Table (Down),1691868,10690,75.273,,145912022,6.385,
+Russia,EUR,UMIC,Label location_UMR along Table (Down),1691868,10690,,121.653,145912022,,7.895
+Rwanda,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",403850,780,,,13276517,34.298,
+Rwanda,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",403850,780,,,13276517,,46.892
+Rwanda,AFR,LIC,Label location_IMR along Table (Down),403850,780,75.273,,13276517,34.298,
+Rwanda,AFR,LIC,Label location_UMR along Table (Down),403850,780,,121.653,13276517,,46.892
+Saint Lucia,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2053,8790,,,184401,8.273,
+Saint Lucia,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2053,8790,,,184401,,11.291
+Saint Lucia,AMR,UMIC,Label location_IMR along Table (Down),2053,8790,75.273,,184401,8.273,
+Saint Lucia,AMR,UMIC,Label location_UMR along Table (Down),2053,8790,,121.653,184401,,11.291
+Saint Vincent,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1440,7340,,,111269,13.995,
+Saint Vincent,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1440,7340,,,111269,,17.756
+Saint Vincent,AMR,UMIC,Label location_IMR along Table (Down),1440,7340,75.273,,111269,13.995,
+Saint Vincent,AMR,UMIC,Label location_UMR along Table (Down),1440,7340,,121.653,111269,,17.756
+Samoa,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",5401,4070,,,200144,15.189,
+Samoa,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",5401,4070,,,200144,,17.991
+Samoa,WPR,LMIC,Label location_IMR along Table (Down),5401,4070,75.273,,200144,15.189,
+Samoa,WPR,LMIC,Label location_UMR along Table (Down),5401,4070,,121.653,200144,,17.991
+São Tomé,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",6556,2070,,,223364,39.963,
+São Tomé,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",6556,2070,,,223364,,56.314
+São Tomé,AFR,LMIC,Label location_IMR along Table (Down),6556,2070,75.273,,223364,39.963,
+São Tomé,AFR,LMIC,Label location_UMR along Table (Down),6556,2070,,121.653,223364,,56.314
+Saudi Arabia,EMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",566760,21930,,,35340680,9.732,
+Saudi Arabia,EMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",566760,21930,,,35340680,,11.494
+Saudi Arabia,EMR,HIC,Label location_IMR along Table (Down),566760,21930,75.273,,35340680,9.732,
+Saudi Arabia,EMR,HIC,Label location_UMR along Table (Down),566760,21930,,121.653,35340680,,11.494
+Senegal,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",537983,1430,,,17196308,28.581,
+Senegal,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",537983,1430,,,17196308,,36.213
+Senegal,AFR,LMIC,Label location_IMR along Table (Down),537983,1430,75.273,,17196308,28.581,
+Senegal,AFR,LMIC,Label location_UMR along Table (Down),537983,1430,,121.653,17196308,,36.213
+Serbia,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",84390,7400,,,8697547,7.599,
+Serbia,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",84390,7400,,,8697547,,9.067
+Serbia,EUR,UMIC,Label location_IMR along Table (Down),84390,7400,75.273,,8697547,7.599,
+Serbia,EUR,UMIC,Label location_UMR along Table (Down),84390,7400,,121.653,8697547,,9.067
+Seychelles,AFR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1538,12720,,,98910,7.224,
+Seychelles,AFR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1538,12720,,,98910,,9.095
+Seychelles,AFR,HIC,Label location_IMR along Table (Down),1538,12720,75.273,,98910,7.224,
+Seychelles,AFR,HIC,Label location_UMR along Table (Down),1538,12720,,121.653,98910,,9.095
+Sierra Leone,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",243215,490,,,8141343,71.047,
+Sierra Leone,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",243215,490,,,8141343,,102.894
+Sierra Leone,AFR,LIC,Label location_IMR along Table (Down),243215,490,75.273,,8141343,71.047,
+Sierra Leone,AFR,LIC,Label location_UMR along Table (Down),243215,490,,121.653,8141343,,102.894
+Singapore,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",58459,54920,,,5896684,1.732,
+Singapore,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",58459,54920,,,5896684,,2.141
+Singapore,WPR,HIC,Label location_IMR along Table (Down),58459,54920,75.273,,5896684,1.732,
+Singapore,WPR,HIC,Label location_UMR along Table (Down),58459,54920,,121.653,5896684,,2.141
+Slovakia,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",56831,18700,,,5460726,4.826,
+Slovakia,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",56831,18700,,,5460726,,5.76
+Slovakia,EUR,HIC,Label location_IMR along Table (Down),56831,18700,75.273,,5460726,4.826,
+Slovakia,EUR,HIC,Label location_UMR along Table (Down),56831,18700,,121.653,5460726,,5.76
+Slovenia,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",18771,25910,,,2078723,1.848,
+Slovenia,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",18771,25910,,,2078723,,2.363
+Slovenia,EUR,HIC,Label location_IMR along Table (Down),18771,25910,75.273,,2078723,1.848,
+Slovenia,EUR,HIC,Label location_UMR along Table (Down),18771,25910,,121.653,2078723,,2.363
+Solomon Isl.,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",21010,2300,,,703995,22.074,
+Solomon Isl.,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",21010,2300,,,703995,,26.07
+Solomon Isl.,WPR,LMIC,Label location_IMR along Table (Down),21010,2300,75.273,,703995,22.074,
+Solomon Isl.,WPR,LMIC,Label location_UMR along Table (Down),21010,2300,,121.653,703995,,26.07
+Somalia,EMR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",630689,310,,,16359500,64.341,
+Somalia,EMR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",630689,310,,,16359500,,105.362
+Somalia,EMR,LIC,Label location_IMR along Table (Down),630689,310,75.273,,16359500,64.341,
+Somalia,EMR,LIC,Label location_UMR along Table (Down),630689,310,,121.653,16359500,,105.362
+South Africa,AFR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1127184,5410,,,60041996,28.009,
+South Africa,AFR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1127184,5410,,,60041996,,34.442
+South Africa,AFR,UMIC,Label location_IMR along Table (Down),1127184,5410,75.273,,60041996,28.009,
+South Africa,AFR,UMIC,Label location_UMR along Table (Down),1127184,5410,,121.653,60041996,,34.442
+South Korea,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",315051,32860,,,51305184,2.098,
+South Korea,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",315051,32860,,,51305184,,2.64
+South Korea,WPR,HIC,Label location_IMR along Table (Down),315051,32860,75.273,,51305184,2.098,
+South Korea,WPR,HIC,Label location_UMR along Table (Down),315051,32860,,121.653,51305184,,2.64
+South Sudan,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",358148,1090,,,11381377,59.468,
+South Sudan,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",358148,1090,,,11381377,,93.691
+South Sudan,AFR,LIC,Label location_IMR along Table (Down),358148,1090,75.273,,11381377,59.468,
+South Sudan,AFR,LIC,Label location_UMR along Table (Down),358148,1090,,121.653,11381377,,93.691
+Spain,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",394175,30330,,,46745211,2.079,
+Spain,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",394175,30330,,,46745211,,2.517
+Spain,EUR,HIC,Label location_IMR along Table (Down),394175,30330,75.273,,46745211,2.079,
+Spain,EUR,HIC,Label location_UMR along Table (Down),394175,30330,,121.653,46745211,,2.517
+Sri Lanka,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",326800,3720,,,21497306,6.008,
+Sri Lanka,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",326800,3720,,,21497306,,7.053
+Sri Lanka,SEAR,LMIC,Label location_IMR along Table (Down),326800,3720,75.273,,21497306,6.008,
+Sri Lanka,SEAR,LMIC,Label location_UMR along Table (Down),326800,3720,,121.653,21497306,,7.053
+Sudan,EMR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1339102,650,,,44909351,41.085,
+Sudan,EMR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1339102,650,,,44909351,,61.94
+Sudan,EMR,LIC,Label location_IMR along Table (Down),1339102,650,75.273,,44909351,41.085,
+Sudan,EMR,LIC,Label location_UMR along Table (Down),1339102,650,,121.653,44909351,,61.94
+Suriname,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",10236,5510,,,591798,14.04,
+Suriname,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",10236,5510,,,591798,,18.835
+Suriname,AMR,UMIC,Label location_IMR along Table (Down),10236,5510,75.273,,591798,14.04,
+Suriname,AMR,UMIC,Label location_UMR along Table (Down),10236,5510,,121.653,591798,,18.835
+Sweden,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",123355,53800,,,10160159,1.714,
+Sweden,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",123355,53800,,,10160159,,2.079
+Sweden,EUR,HIC,Label location_IMR along Table (Down),123355,53800,75.273,,10160159,1.714,
+Sweden,EUR,HIC,Label location_UMR along Table (Down),123355,53800,,121.653,10160159,,2.079
+Switzerland,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",90155,87950,,,8715494,3.081,
+Switzerland,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",90155,87950,,,8715494,,3.448
+Switzerland,EUR,HIC,Label location_IMR along Table (Down),90155,87950,75.273,,8715494,3.081,
+Switzerland,EUR,HIC,Label location_UMR along Table (Down),90155,87950,,121.653,8715494,,3.448
+Syria,EMR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",425911,1820,,,18275704,13.442,
+Syria,EMR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",425911,1820,,,18275704,,15.314
+Syria,EMR,LIC,Label location_IMR along Table (Down),425911,1820,75.273,,18275704,13.442,
+Syria,EMR,LIC,Label location_UMR along Table (Down),425911,1820,,121.653,18275704,,15.314
+Taiwan,WPR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",,0,,,,3.453,
+Taiwan,WPR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",,0,,,,,4.336
+Taiwan,WPR,HIC,Label location_IMR along Table (Down),,0,75.273,,,3.453,
+Taiwan,WPR,HIC,Label location_UMR along Table (Down),,0,,121.653,,,4.336
+Tajikistan,EUR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",267242,1060,,,9749625,30.911,
+Tajikistan,EUR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",267242,1060,,,9749625,,38.852
+Tajikistan,EUR,LMIC,Label location_IMR along Table (Down),267242,1060,75.273,,9749625,30.911,
+Tajikistan,EUR,LMIC,Label location_UMR along Table (Down),267242,1060,,121.653,9749625,,38.852
+Tanzania,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2102021,1080,,,61498438,36.342,
+Tanzania,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2102021,1080,,,61498438,,49.827
+Tanzania,AFR,LMIC,Label location_IMR along Table (Down),2102021,1080,75.273,,61498438,36.342,
+Tanzania,AFR,LMIC,Label location_UMR along Table (Down),2102021,1080,,121.653,61498438,,49.827
+Thailand,SEAR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",690071,7050,,,69950844,8.408,
+Thailand,SEAR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",690071,7050,,,69950844,,9.806
+Thailand,SEAR,UMIC,Label location_IMR along Table (Down),690071,7050,75.273,,69950844,8.408,
+Thailand,SEAR,UMIC,Label location_UMR along Table (Down),690071,7050,,121.653,69950844,,9.806
+Timor-Leste,SEAR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",39415,1830,,,1343875,29.085,
+Timor-Leste,SEAR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",39415,1830,,,1343875,,37.204
+Timor-Leste,SEAR,LMIC,Label location_IMR along Table (Down),39415,1830,75.273,,1343875,29.085,
+Timor-Leste,SEAR,LMIC,Label location_UMR along Table (Down),39415,1830,,121.653,1343875,,37.204
+Togo,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",257511,920,,,8478242,46.277,
+Togo,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",257511,920,,,8478242,,70.294
+Togo,AFR,LIC,Label location_IMR along Table (Down),257511,920,75.273,,8478242,46.277,
+Togo,AFR,LIC,Label location_UMR along Table (Down),257511,920,,121.653,8478242,,70.294
+Tonga,WPR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",2395,5000,,,106759,18.276,
+Tonga,WPR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",2395,5000,,,106759,,21.592
+Tonga,WPR,UMIC,Label location_IMR along Table (Down),2395,5000,75.273,,106759,18.276,
+Tonga,WPR,UMIC,Label location_UMR along Table (Down),2395,5000,,121.653,106759,,21.592
+Trinidad,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",16322,15410,,,1403374,21.061,
+Trinidad,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",16322,15410,,,1403374,,26.298
+Trinidad,AMR,HIC,Label location_IMR along Table (Down),16322,15410,75.273,,1403374,21.061,
+Trinidad,AMR,HIC,Label location_UMR along Table (Down),16322,15410,,121.653,1403374,,26.298
+Tunisia,EMR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",179193,3100,,,11935764,13.604,
+Tunisia,EMR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",179193,3100,,,11935764,,14.982
+Tunisia,EMR,LMIC,Label location_IMR along Table (Down),179193,3100,75.273,,11935764,13.604,
+Tunisia,EMR,LMIC,Label location_UMR along Table (Down),179193,3100,,121.653,11935764,,14.982
+Turkey,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1247194,9050,,,85042736,8.691,
+Turkey,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1247194,9050,,,85042736,,12.786
+Turkey,EUR,UMIC,Label location_IMR along Table (Down),1247194,9050,75.273,,85042736,8.691,
+Turkey,EUR,UMIC,Label location_UMR along Table (Down),1247194,9050,,121.653,85042736,,12.786
+Turkmenistan,EUR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",112960,7220,,,6117933,40.532,
+Turkmenistan,EUR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",112960,7220,,,6117933,,48.115
+Turkmenistan,EUR,UMIC,Label location_IMR along Table (Down),112960,7220,75.273,,6117933,40.532,
+Turkmenistan,EUR,UMIC,Label location_UMR along Table (Down),112960,7220,,121.653,6117933,,48.115
+UAE,EMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",94564,43470,,,9991083,4.825,
+UAE,EMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",94564,43470,,,9991083,,5.61
+UAE,EMR,HIC,Label location_IMR along Table (Down),94564,43470,75.273,,9991083,4.825,
+UAE,EMR,HIC,Label location_UMR along Table (Down),94564,43470,,121.653,9991083,,5.61
+Uganda,AFR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1625283,800,,,47123533,50.773,
+Uganda,AFR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1625283,800,,,47123533,,75.222
+Uganda,AFR,LIC,Label location_IMR along Table (Down),1625283,800,75.273,,47123533,50.773,
+Uganda,AFR,LIC,Label location_UMR along Table (Down),1625283,800,,121.653,47123533,,75.222
+UK,EUR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",751717,42130,,,68207114,3.154,
+UK,EUR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",751717,42130,,,68207114,,4.096
+UK,EUR,HIC,Label location_IMR along Table (Down),751717,42130,75.273,,68207114,3.154,
+UK,EUR,HIC,Label location_UMR along Table (Down),751717,42130,,121.653,68207114,,4.096
+Ukraine,EUR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",365726,3540,,,43466822,6.426,
+Ukraine,EUR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",365726,3540,,,43466822,,7.672
+Ukraine,EUR,LMIC,Label location_IMR along Table (Down),365726,3540,75.273,,43466822,6.426,
+Ukraine,EUR,LMIC,Label location_UMR along Table (Down),365726,3540,,121.653,43466822,,7.672
+Uruguay,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",46155,15830,,,3485152,10.179,
+Uruguay,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",46155,15830,,,3485152,,12.117
+Uruguay,AMR,HIC,Label location_IMR along Table (Down),46155,15830,75.273,,3485152,10.179,
+Uruguay,AMR,HIC,Label location_UMR along Table (Down),46155,15830,,121.653,3485152,,12.117
+USA,AMR,HIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",4041396,65910,,,332915074,4.7,
+USA,AMR,HIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",4041396,65910,,,332915074,,5.493
+USA,AMR,HIC,Label location_IMR along Table (Down),4041396,65910,75.273,,332915074,4.7,
+USA,AMR,HIC,Label location_UMR along Table (Down),4041396,65910,,121.653,332915074,,5.493
+Uzbekistan,EUR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",667329,1670,,,33935765,25.707,
+Uzbekistan,EUR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",667329,1670,,,33935765,,29.876
+Uzbekistan,EUR,LMIC,Label location_IMR along Table (Down),667329,1670,75.273,,33935765,25.707,
+Uzbekistan,EUR,LMIC,Label location_UMR along Table (Down),667329,1670,,121.653,33935765,,29.876
+Vanuatu,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",9088,2780,,,314464,19.558,
+Vanuatu,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",9088,2780,,,314464,,22.986
+Vanuatu,WPR,LMIC,Label location_IMR along Table (Down),9088,2780,75.273,,314464,19.558,
+Vanuatu,WPR,LMIC,Label location_UMR along Table (Down),9088,2780,,121.653,314464,,22.986
+Venezuela,AMR,UMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",417376,13080,,,28704947,11.043,
+Venezuela,AMR,UMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",417376,13080,,,28704947,,12.785
+Venezuela,AMR,UMIC,Label location_IMR along Table (Down),417376,13080,75.273,,28704947,11.043,
+Venezuela,AMR,UMIC,Label location_UMR along Table (Down),417376,13080,,121.653,28704947,,12.785
+Viet Nam,WPR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",1562959,2660,,,98168829,15.117,
+Viet Nam,WPR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",1562959,2660,,,98168829,,19.023
+Viet Nam,WPR,LMIC,Label location_IMR along Table (Down),1562959,2660,75.273,,98168829,15.117,
+Viet Nam,WPR,LMIC,Label location_UMR along Table (Down),1562959,2660,,121.653,98168829,,19.023
+Yemen,EMR,LIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",827534,940,,,30490639,39.162,
+Yemen,EMR,LIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",827534,940,,,30490639,,51.626
+Yemen,EMR,LIC,Label location_IMR along Table (Down),827534,940,75.273,,30490639,39.162,
+Yemen,EMR,LIC,Label location_UMR along Table (Down),827534,940,,121.653,30490639,,51.626
+Zambia,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",620362,1190,,,18920657,41.896,
+Zambia,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",620362,1190,,,18920657,,59.418
+Zambia,AFR,LMIC,Label location_IMR along Table (Down),620362,1190,75.273,,18920657,41.896,
+Zambia,AFR,LMIC,Label location_UMR along Table (Down),620362,1190,,121.653,18920657,,59.418
+Zimbabwe,AFR,LMIC,"Avg. Infant mortality rate (infant deaths per 1,000 live births)",377918,1090,,,15092171,38.947,
+Zimbabwe,AFR,LMIC,"Avg. Under-five mortality (deaths under age 5 per 1,000 live births)",377918,1090,,,15092171,,53.875
+Zimbabwe,AFR,LMIC,Label location_IMR along Table (Down),377918,1090,75.273,,15092171,38.947,
+Zimbabwe,AFR,LMIC,Label location_UMR along Table (Down),377918,1090,,121.653,15092171,,53.875
